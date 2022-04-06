@@ -1,0 +1,11 @@
+.dashboard-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffff;
+}
+.dash-header {
+  width: 98%;
+  height: 100px;
+  background-color: #0d99e5;
+  margin: 10px;
+}
